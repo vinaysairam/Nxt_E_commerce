@@ -1,0 +1,46 @@
+.nv {
+  background-color: #272727;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  font-family: 'roboto';
+  padding: 15px 30px 15px 30px;
+  align-items: center;
+  margin: 0px;
+  position: fixed;
+  width: 100%;
+}
+ul {
+  list-style-type: none;
+}
+.btn-lg {
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.fl {
+  display: flex;
+  gap: 17px;
+  list-style-type: none;
+}
+.ln {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+.lg1 {
+  width: 120px;
+  height: 40px;
+}
+.btn-log {
+  background-color: #4f46e5;
+  border-radius: 6px;
+  padding: 10px;
+  color: white;
+  width: 110px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-weight: 500;
+}

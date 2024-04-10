@@ -1,0 +1,190 @@
+.bg-con4 {
+  min-height: 100vh;
+  background-color: black;
+  color: white;
+  font-family: 'roboto';
+  display: flex;
+  justify-content: center;
+  gap: 29px;
+  padding: 40px;
+  padding-top: 100px;
+}
+.card2 {
+  color: white;
+  width: 22%;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.sr-bx {
+  width: 400px;
+  border: 1px solid gray;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+}
+.inp-src {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  color: gray;
+  font-weight: 500;
+  padding: 10px;
+  width: 370px;
+}
+.btn-src {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding-left: 13px;
+  padding-right: 13px;
+  background-color: #272727;
+  font-size: 20p;
+}
+.cl {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.fl2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.li-2 {
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 13px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  cursor: pointer;
+}
+.lnk {
+  color: white;
+  text-decoration: none;
+}
+.bg {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cla {
+  color: white;
+}
+.hrr {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+.jd {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.p2 {
+  line-height: 1.8;
+  padding-top: 10px;
+  font-size: 15px;
+}
+.h2 {
+  font-size: 20px;
+  font-weight: 500;
+}
+.lg-1 {
+  height: 60px;
+  width: 60px;
+}
+.card-items {
+  list-style-type: none;
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 40px;
+}
+.pp2 {
+  align-items: center;
+  gap: 7px;
+  font-size: 20px;
+  display: flex;
+}
+.st {
+  color: #fbbf24;
+}
+.src-logo {
+  background-color: #272727;
+  padding: 10px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.card3 {
+  width: 70%;
+}
+.pf {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  width: 250px;
+  height: 220px;
+  padding: 25px;
+}
+hr {
+  border: 1px solid gray;
+  width: 95%;
+}
+.ld {
+  width: 250px;
+  height: 220px;
+  padding: 25px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ul-lt {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 4px;
+  padding-top: 20px;
+}
+.li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.crd4 {
+  align-self: flex-start;
+  padding: 8px;
+}
+.fl-h {
+  color: white;
+  font-size: 20px;
+  font-weight: 445;
+}
+.img-pf {
+  height: 60px;
+  width: 64px;
+}
+.tl {
+  color: #6366f1;
+  font-size: 22px;
+  padding-top: 10px;
+}
+.p1 {
+  color: #64748b;
+  padding-top: 20px;
+  font-size: 15px;
+  font-weight: 400;
+}

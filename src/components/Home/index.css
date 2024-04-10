@@ -1,0 +1,41 @@
+.bg-con2 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  height: 100vh;
+  margin: 0px;
+  background-size: cover;
+  font-family: 'roboto';
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 80px;
+}
+.hh {
+  font-size: 70px;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.card-1 {
+  width: 80%;
+  margin-top: 50px;
+}
+.para {
+  font-size: 25px;
+  font-weight: 300;
+  padding-top: 20px;
+  line-height: 1.5;
+}
+.btn-jb {
+  width: 128px;
+  background-color: #6366f1;
+  padding: 13px;
+  border-radius: 7px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-top: 26px;
+  color: white;
+  font-size: 18px;
+}
